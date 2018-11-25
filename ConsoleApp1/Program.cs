@@ -13,31 +13,22 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-//            while (true)
-//            {
-//                Console.Write("Input short Notation: \n");
-//                var notation = Console.ReadLine();
-//                if (new ScrambledVShortNotationConverter().Validate(notation))
-//                {
-//                    var pattern = new ScrambledVShortNotationConverter().GetLongNotationHtml(notation);
-//                    using (var file = new System.IO.StreamWriter(@"Latex/test.tex"))
-//                    {
-//                        file.Write(pattern);
-//                    }
-//
-//                    Console.Write(pattern);
-//                    break;
-//                }
-//
-//                Console.WriteLine("Dies ist keine gültige Scrambled V Notation\n");
-//            }
-            var notation = "sA iC cB";
-            var pattern = new ScrambledVShortNotationConverter().GetLongNotationHtml(notation);
-            Console.Write(pattern);
-            using (var file = new System.IO.StreamWriter(@"Latex/test.html"))
+            while (true)
             {
-                file.Write(pattern);
+                Console.Write("Input short Notation: \n");
+                Console.Write("For Example cB sC iC\n");
+                var notation = Console.ReadLine();
+                if (new ScrambledVShortNotationConverter().Validate(notation))
+                {
+                    var pattern = new ScrambledVShortNotationConverter().GetLongNotationLatex(notation);
+
+                    Console.Write(pattern);
+                    break;
+                }
+
+                Console.WriteLine("Dies ist keine gültige Scrambled V Notation\n");
             }
+
         }
     }
 }
