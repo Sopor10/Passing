@@ -1,0 +1,14 @@
+/home/lars/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.deps.json
+/home/lars/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.json
+/home/lars/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.dev.json
+/home/lars/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.dll
+/home/lars/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/home/lars/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csprojAssemblyReference.cache
+/home/lars/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/lars/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfoInputs.cache
+/home/lars/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfo.cs
+/home/lars/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.dll
+/home/lars/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/home/lars/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/Juggling.dll
+/home/lars/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/Juggling.pdb
+/home/lars/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csproj.CopyComplete

@@ -1,0 +1,20 @@
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+QXcbConnection: XCB error: 148 (Unknown), sequence: 1028, resource id: 0, major code: 140 (Unknown), minor code: 20
+QXcbConnection: XCB error: 148 (Unknown), sequence: 1034, resource id: 0, major code: 140 (Unknown), minor code: 20
+QXcbConnection: XCB error: 148 (Unknown), sequence: 1040, resource id: 0, major code: 140 (Unknown), minor code: 20
+QXcbConnection: XCB error: 148 (Unknown), sequence: 1043, resource id: 0, major code: 140 (Unknown), minor code: 20
+QXcbConnection: XCB error: 148 (Unknown), sequence: 1046, resource id: 0, major code: 140 (Unknown), minor code: 20
+QXcbConnection: XCB error: 148 (Unknown), sequence: 1049, resource id: 0, major code: 140 (Unknown), minor code: 20

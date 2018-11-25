@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Solution1.1095932008.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ClassLibrary1" t="IncludeRecursive">
+        <e p="Beat.cs" t="Include" />
+        <e p="ClassLibrary1.csproj" t="IncludeRecursive" />
+        <e p="Fixtures" t="Include">
+          <e p="BeatFixture.cs" t="Include" />
+          <e p="ManipulationFixture.cs" t="Include" />
+          <e p="PassFixture.cs" t="Include" />
+          <e p="PatternFixture.cs" t="Include" />
+          <e p="ScrambledVFixture.cs" t="Include" />
+          <e p="SelfFixture.cs" t="Include" />
+        </e>
+        <e p="Juggler" t="Include">
+          <e p="Juggler.cs" t="Include" />
+          <e p="Manipulator.cs" t="Include" />
+          <e p="Passer.cs" t="Include" />
+        </e>
+        <e p="Pattern.cs" t="Include" />
+        <e p="Throws" t="Include">
+          <e p="Manipulation.cs" t="Include" />
+          <e p="Pass.cs" t="Include" />
+          <e p="Self.cs" t="Include" />
+          <e p="Throw.cs" t="Include" />
+        </e>
+        <e p="Types" t="Include">
+          <e p="ManipulationType.cs" t="Include" />
+          <e p="PassType.cs" t="Include" />
+          <e p="SelfType.cs" t="Include" />
+        </e>
+        <e p="Uebergang.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ClassLibrary1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="Latex" t="Include">
+          <e p="makeAndShow.sh" t="Include" />
+          <e p="nohup.out" t="Include" />
+          <e p="test.aux" t="Include" />
+          <e p="test.html" t="Include" />
+          <e p="test.log" t="Include" />
+          <e p="test.pdf" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ScrambledVShortNotationConverter.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="ConsoleApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Solution1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

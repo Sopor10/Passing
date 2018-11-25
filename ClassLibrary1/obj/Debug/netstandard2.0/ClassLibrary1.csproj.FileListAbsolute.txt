@@ -1,0 +1,9 @@
+/home/lars/RiderProjects/Solution1/ClassLibrary1/bin/Debug/netstandard2.0/Juggling.deps.json
+/home/lars/RiderProjects/Solution1/ClassLibrary1/bin/Debug/netstandard2.0/Juggling.dll
+/home/lars/RiderProjects/Solution1/ClassLibrary1/bin/Debug/netstandard2.0/Juggling.pdb
+/home/lars/RiderProjects/Solution1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.csprojAssemblyReference.cache
+/home/lars/RiderProjects/Solution1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/home/lars/RiderProjects/Solution1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.AssemblyInfoInputs.cache
+/home/lars/RiderProjects/Solution1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.AssemblyInfo.cs
+/home/lars/RiderProjects/Solution1/ClassLibrary1/obj/Debug/netstandard2.0/Juggling.dll
+/home/lars/RiderProjects/Solution1/ClassLibrary1/obj/Debug/netstandard2.0/Juggling.pdb
